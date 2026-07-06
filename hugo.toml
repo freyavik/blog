@@ -1,7 +1,8 @@
 baseURL = "https://freyavik.github.io/blog/"
 languageCode = "en"
-title = "My blog"
+title = "Thinking Out Loud"
 theme = "PaperMod"
 
 [params]
   defaultTheme = "auto"
+  description = "Notes on problem-solving, logic, and the small lessons that shape how I think."
