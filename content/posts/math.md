@@ -4,14 +4,13 @@ date: 2026-07-06
 draft: false
 ---
 
-## What Math Taught Me About Solving Problems (That Has Nothing to Do With Math)
+## ... About Solving Problems (That Has Nothing to Do With Math)
 
 For most of my life, I thought of math as something that lived strictly inside a textbook — equations, derivatives, proofs, all locked away in a world that had nothing to do with my "real" life. Turns out I was wrong. The way math trains you to think doesn't stay in the classroom. It sneaks into how you work, how you make decisions, and how you handle the messy problems life throws at you.
 
 Here are five lessons math taught me that I still use every single day.
 
-![Ilustration of the mathematics](/images/math-illustration.png)
-
+<img src="/blog/images/math-illustration.png" alt="illustration of the math" style="width:300px; height:auto;">
 
 ### 1. Break It Down
 
