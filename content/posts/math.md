@@ -10,7 +10,7 @@ For most of my life, I thought of math as something that lived strictly inside a
 
 Here are five lessons math taught me that I still use every single day.
 
-![illustration of the math](/blog/images/math-illustration.png")
+![illustration of the math](/blog/images/math-illustration.png)
  
 ### 1. Break It Down
 
