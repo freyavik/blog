@@ -10,8 +10,8 @@ For most of my life, I thought of math as something that lived strictly inside a
 
 Here are five lessons math taught me that I still use every single day.
 
-<img src="/blog/images/math-illustration.png" alt="illustration of the math" style="width:300px; height:auto;">
-
+![illustration of the math](/blog/images/math-illustration.png")
+ 
 ### 1. Break It Down
 
 Every math problem comes with its own set of rules and steps that eventually lead somewhere. That's the first habit math builds in you: taking something big and intimidating and cutting it into smaller, manageable pieces.
