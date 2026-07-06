@@ -1,5 +1,5 @@
 ---
-title: "What Mathematics Taught Me"
+title: "What Chess Taught Me"
 date: 2026-07-07
 draft: false
 ---
