@@ -1,6 +1,6 @@
 ---
 title: "What Mathematics Taught Me"
-date: 2026-07-06
+date: 2026-07-05
 draft: false
 ---
 

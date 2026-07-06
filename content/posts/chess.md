@@ -1,6 +1,6 @@
 ---
 title: "What Chess Taught Me"
-date: 2026-07-07
+date: 2026-07-06
 draft: false
 ---
 
