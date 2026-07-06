@@ -1,0 +1,7 @@
+baseURL = "https://freyavik.github.io/blog/"
+languageCode = "en"
+title = "My blog"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "auto"
