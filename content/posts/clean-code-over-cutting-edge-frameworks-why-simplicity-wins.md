@@ -4,6 +4,10 @@ date: 2026-07-07
 draft: false
 ---
 
+# Clean Code over Cutting-Edge Frameworks: Why Simplicity Wins
+
+![Clean code over hype](/blog/images/clean-code-simplicity.svg)
+
 In the fast-paced world of software development, it's easy to get swept up in the hype of the latest frameworks and technologies. Every few months, there's a new tool promising to revolutionize the way we code. However, as tempting as it is to chase after these shiny new toys, I firmly believe that clean and simple code holds far greater value in the long run. Let me explain why.
 
 **The Illusion of Progress**

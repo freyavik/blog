@@ -1,0 +1,33 @@
+<svg width="1400" height="800" viewBox="0 0 1400 800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="800" rx="36" fill="#0f172a"/>
+  <rect x="56" y="56" width="1288" height="688" rx="28" fill="#111827" stroke="#334155" stroke-width="3"/>
+
+  <circle cx="1180" cy="170" r="120" fill="#1d4ed8" opacity="0.2"/>
+  <circle cx="250" cy="630" r="150" fill="#10b981" opacity="0.16"/>
+
+  <text x="120" y="180" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" fill="#f8fafc">Clean code</text>
+  <text x="120" y="240" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" fill="#60a5fa">wins over hype</text>
+
+  <text x="120" y="320" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" fill="#cbd5e1">Simple systems stay readable, maintainable, and calm.</text>
+
+  <rect x="120" y="380" width="460" height="260" rx="24" fill="#f8fafc"/>
+  <rect x="150" y="420" width="200" height="18" rx="9" fill="#2563eb"/>
+  <rect x="150" y="456" width="320" height="16" rx="8" fill="#94a3b8"/>
+  <rect x="150" y="488" width="280" height="16" rx="8" fill="#94a3b8"/>
+  <rect x="150" y="520" width="180" height="16" rx="8" fill="#94a3b8"/>
+  <circle cx="500" cy="560" r="36" fill="#10b981"/>
+  <path d="M478 560l14 14 28-32" fill="none" stroke="#f8fafc" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="700" y="380" width="560" height="260" rx="24" fill="#111827" stroke="#475569" stroke-width="3"/>
+  <rect x="740" y="420" width="220" height="18" rx="9" fill="#f59e0b"/>
+  <rect x="740" y="456" width="320" height="16" rx="8" fill="#fb923c"/>
+  <rect x="740" y="488" width="280" height="16" rx="8" fill="#f97316"/>
+  <rect x="740" y="520" width="220" height="16" rx="8" fill="#ef4444"/>
+
+  <path d="M1100 430c0-44 36-80 80-80h40" stroke="#38bdf8" stroke-width="18" stroke-linecap="round" fill="none"/>
+  <path d="M1000 520c0 44 36 80 80 80h80" stroke="#fb7185" stroke-width="18" stroke-linecap="round" fill="none"/>
+  <circle cx="1160" cy="520" r="24" fill="#f43f5e"/>
+  <circle cx="1180" cy="350" r="24" fill="#38bdf8"/>
+
+  <text x="120" y="690" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" fill="#94a3b8">Readable • Maintainable • Future-proof</text>
+</svg>

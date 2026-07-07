@@ -4,6 +4,7 @@ date: 2026-07-06
 draft: false
 ---
 
+# What Chess Taught Me
 
 There's a moment in every chess game where you realize you've been looking at the board wrong. Not the pieces — the board. You've been counting material, tracking who's ahead by a pawn or two, when the real question was always about squares. Who controls them. Who's about to.
 
