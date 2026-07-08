@@ -4,6 +4,8 @@ date: 2026-06-31
 draft: false
 ---
 
+![Building Harmonies](/blog/images/building-harmonic.png)
+
 In a world where we often feel more divided than united, music has always been one of those magical threads that weave us together, regardless of our backgrounds or beliefs. I’ve been thinking a lot lately about how music isn’t just something we listen to or create; it’s a way to connect, to build a community, and to share a piece of our souls with others. Today, I want to dive into how music can be more than just a collection of notes and rhythms—it can be a bridge that connects us, fostering a sense of belonging and understanding.
 
 ## The Universal Language
