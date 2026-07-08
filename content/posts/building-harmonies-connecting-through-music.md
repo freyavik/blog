@@ -1,6 +1,6 @@
 ---
 title: "Building Harmonies: Connecting Through Music"
-date: 2026-07-09
+date: 2026-06-30
 draft: false
 ---
 

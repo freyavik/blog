@@ -4,7 +4,7 @@ date: 2026-07-08
 draft: false
 ---
 
-![Stop Chasing Perfection](/blog/images/perfection.jpg)
+![Stop Chasing Perfection](/blog/images/perfection.jpeg)
 
 Creativity is a journey, not a destination. Yet, for many of us, the quest for perfection can feel like a never-ending roadblock. I've learned over time that chasing perfection can stifle creativity, and it's something I'm working to let go of. If you're anything like me, you might be caught in the perfection trap too. Let me share why it's essential to stop chasing perfection and how doing so can propel your creativity forward.
 
