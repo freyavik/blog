@@ -20,7 +20,7 @@ As a musician, one of my greatest joys has been building a community around my m
 
 But how do we, as musicians, build this community? It starts with authenticity. People are drawn to honesty and vulnerability. When you write or perform from the heart, it resonates. It tells others that they’re not alone in their experiences, that someone else understands what they’re going through.
 
-## Sharing Stories##
+## Sharing Stories
 
 I’ve always believed that behind every song is a story waiting to be told. Sharing these stories can be a powerful way to connect with your audience. Whether it’s the inspiration behind a song, the struggles faced during its creation, or the personal experiences that shaped it, these stories add depth and meaning to the music.
 
