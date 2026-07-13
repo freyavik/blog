@@ -7,7 +7,7 @@ draft: false
 
 The Norwegian music scene is as diverse and dynamic as the landscape that shapes it. From the haunting echoes of traditional folk music to the cutting-edge beats of electronic and metal, Norway has carved out a unique space in the global music arena. As someone deeply embedded in this tapestry, playing bass in an alternative rock band, I find the current trends both exciting and reflective of broader cultural shifts.
 
-[A Journey Through Sound and Spirit](/static/images/spirit.png)
+[A Journey Through Sound and Spirit](/blog/images/spirit.png)
 
 ## Tradition Meets Innovation
 
